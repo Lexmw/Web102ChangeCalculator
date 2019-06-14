@@ -1,0 +1,22 @@
+body{
+    background: wheat;
+}
+
+h1{
+    color: rgb(255, 72, 0);
+}
+
+img{
+    width: 500px;
+    height: 250px;
+}
+#amount-due, #amount-received{
+    height: 20px;
+    font-size: 15px;
+}
+#calculate-change{
+    border: 3px dotted green;
+    background: black;
+    font-size: 15px;
+    color: lightgreen;
+}
